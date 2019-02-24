@@ -1,0 +1,16 @@
+{
+    "name": "btraore/tuto_mvc",
+    "description": "Tuto Pattern MVC",
+    "authors": [
+        {
+            "name": "Bourama TRAORE",
+            "email": "boulbycom@gmail.com"
+        }
+    ],
+    "autoload":{
+        "psr-4":{
+            "App\\":"app"
+        }
+    },
+    "require": {}
+}
